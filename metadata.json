@@ -1,0 +1,6 @@
+{
+  "name": "Syrian Airport Data Engine",
+  "description": "Empirical flight operations database and analytical engine for Syrian airports with a Damascus International Airport deep-dive layer, archived FIDS analytics, and air traffic monitor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
